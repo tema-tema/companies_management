@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24eccc9b-e874-4b4e-8946-87f6714a20ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_npm.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_npm.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/.finished-upgraders" afterPath="$PROJECT_DIR$/.meteor/.finished-upgraders" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/release" afterPath="$PROJECT_DIR$/.meteor/release" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
     </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +69,8 @@
       <file leaf-file-name="jquery.dataTables.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/admin-lte/plugins/datatables/jquery.dataTables.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="14082" column="8" selection-start-line="14082" selection-start-column="8" selection-end-line="14082" selection-end-column="8" />
+            <state relative-caret-position="687">
+              <caret line="14107" column="0" selection-start-line="14107" selection-start-column="0" selection-end-line="14108" selection-end-column="0" />
               <folding>
                 <marker date="1431042504000" expanded="true" signature="112923:112948" ph="..." />
                 <marker date="1431042504000" expanded="true" signature="416881:416889" ph="..." />
@@ -170,7 +176,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1147" />
+    <option name="x" value="1145" />
     <option name="y" value="23" />
     <option name="width" value="1408" />
     <option name="height" value="1360" />
@@ -200,6 +206,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -243,6 +251,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-mounter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,8 +360,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -472,15 +496,16 @@
       <workItem from="1474924408564" duration="1672000" />
       <workItem from="1474926701292" duration="1426000" />
       <workItem from="1474928488695" duration="712000" />
-      <workItem from="1474930333165" duration="380000" />
+      <workItem from="1474930333165" duration="1408000" />
+      <workItem from="1474932286177" duration="1299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32914000" />
+    <option name="totallyTimeSpent" value="35241000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1147" y="23" width="1408" height="1360" extended-state="0" />
+    <frame x="1145" y="23" width="1408" height="1360" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23071377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />

@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "admin-lte": "^2.3.6",
+    "bcrypt": "^0.8.7",
     "classnames": "^2.2.3",
     "meteor-node-stubs": "~0.2.0",
     "react": "^15.3.2",
