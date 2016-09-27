@@ -14,5 +14,8 @@
     "react-addons-pure-render-mixin": "^15.1.0",
     "react-dom": "^15.3.2",
     "react-mounter": "^1.2.0"
+  },
+  "engines": {
+    "node": "6.0.0"
   }
 }
